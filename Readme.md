@@ -18,6 +18,7 @@ print("yemeyi yeyerken **kicik** parcalar halinda ud")
 
 **This is a random picture**
 
-[Leon]() 
 
 ![alt text](https://assets.stickpng.com/images/580b585b2edbce24c47b249e.png)
+
+*Please check my [Behance](https://www.behance.net/ilyasjafarli) account*
